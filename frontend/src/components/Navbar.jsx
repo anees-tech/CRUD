@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom'
 function Navbar() {
   return (
     <>
-      <nav className='flex justify-around items-center py-5 mt-1 w-full z-20 top-0 left-0 px-auto bg-slate-400'>
+      <nav className='flex justify-around items-center py-5 mb-5 w-full z-20 top-0 left-0 px-auto bg-gray-500'>
         <div className="logo">
           <Link to="/">
             <span className='self-center text-2xl font-semibold whitespace-nowrap dark:text-white'>CRUD</span>
