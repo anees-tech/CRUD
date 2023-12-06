@@ -91,7 +91,7 @@ function Transactions() {
                       {item.stdName}
                     </th>
                     <td className="px-6 py-4">
-                      {item.stbClassName}
+                      {item.stdClassName}
                     </td>
                     <td className="px-6 py-4">
                       {item.serialNumber}

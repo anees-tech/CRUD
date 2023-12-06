@@ -170,7 +170,7 @@ function Students() {
                       contact: item.contact,
                       gender: item.gender,
                     })}
-                    className="bg-white border-b dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600"
+                    className="bg-white border-b cursor-pointer dark:bg-gray-800 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-600"
                   >
                     <th
                       scope="row"
